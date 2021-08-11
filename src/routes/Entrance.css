@@ -35,13 +35,13 @@
     justify-content: center;
 }
 .link {
-    display: block;
-    text-align: center;
-    line-height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border: none;
     border-radius: 15px;
     width: 10rem;
-    height: 4rem;
+    height: 4.2rem;
     font-size: 1.6rem;
     font-weight: 700;
     background-color: #3FC1C9;
