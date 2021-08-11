@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/plendar/static/css/main.0df58d03.chunk.css",
+    "main.css": "/plendar/static/css/main.2727de8d.chunk.css",
     "main.js": "/plendar/static/js/main.0b05e71f.chunk.js",
     "main.js.map": "/plendar/static/js/main.0b05e71f.chunk.js.map",
     "runtime-main.js": "/plendar/static/js/runtime-main.b864192c.js",
@@ -8,13 +8,13 @@
     "static/js/2.902594e4.chunk.js": "/plendar/static/js/2.902594e4.chunk.js",
     "static/js/2.902594e4.chunk.js.map": "/plendar/static/js/2.902594e4.chunk.js.map",
     "index.html": "/plendar/index.html",
-    "static/css/main.0df58d03.chunk.css.map": "/plendar/static/css/main.0df58d03.chunk.css.map",
+    "static/css/main.2727de8d.chunk.css.map": "/plendar/static/css/main.2727de8d.chunk.css.map",
     "static/js/2.902594e4.chunk.js.LICENSE.txt": "/plendar/static/js/2.902594e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b864192c.js",
     "static/js/2.902594e4.chunk.js",
-    "static/css/main.0df58d03.chunk.css",
+    "static/css/main.2727de8d.chunk.css",
     "static/js/main.0b05e71f.chunk.js"
   ]
 }
