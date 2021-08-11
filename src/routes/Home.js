@@ -30,7 +30,7 @@ class Home extends React.Component{
         <div className="container">
           {isLoading ?
           <div className="setting__container">
-            <span className="setting_text">is Loading...</span>
+            <span className="setting_text">일정을 불러오는 중입니다..</span>
           </div> : matches.map(match => {
           return <ul className="match__container"><Match key={match.id} id={match.id} homeTeam={match.homeTeam} awayTeam={match.awayTeam} utcDate={match.utcDate} /></ul>
         })}</div>
