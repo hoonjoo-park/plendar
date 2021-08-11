@@ -1,0 +1,36 @@
+body {
+    
+}
+.wrapper {
+    width: 100vw;
+    height: 100%;
+    background-image: url('https://images.unsplash.com/photo-1601370690183-1c7796ecec61?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80');
+}
+header {
+    text-align: center;
+    width: 100vw;
+    height: 15vh;
+    font-size: 5rem;
+    font-weight: 800;
+    color: ghostwhite;
+    line-height: 15vh;
+}
+.setting_text{
+    font-size: 5rem;
+    color: #fff;
+    font-weight: 700;
+}
+.EPL_logo {
+    display: block;
+    width: 8rem;
+    margin: 1rem auto 0 auto;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 75vw;
+    height: 100%;
+    justify-content: space-evenly;
+    margin: 0 auto 10rem auto;
+    padding: 5em 0;
+}

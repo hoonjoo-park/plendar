@@ -1,0 +1,16 @@
+* {
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+}
+
+body {
+    margin: 0;
+    /* background-position: center; */
+    /* background-size: cover; */
+}
+
+ul {
+    padding: 0;
+}
